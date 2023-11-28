@@ -25,10 +25,7 @@ To get started with Cards, follow these steps:
 3. Start the development server.
 4. Open the application in a web browser.
 
-## Acknowledgements
-
-We would like to acknowledge the following libraries and tools that contributed to the development of Cards:
-
+## Technologies Used
 - [Radix](https://radix-ui.com/): UI component library for building performant and accessible interfaces.
 - [React Toastify](https://github.com/fkhadra/react-toastify): React notifications made easy.
 - [React Hook Form](https://react-hook-form.com/): Performant, flexible, and extensible forms with easy-to-use validation.
